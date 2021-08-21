@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://www.hackster.io/GJ29/">
-    <img src=""https://user-images.githubusercontent.com/10383395/49821324-358fa080-fda0-11e8-8b00-def2a67fc598.png" width="30">
+    <img src="https://hackster.imgix.net/uploads/attachments/1004883/hackster_logo_squared.png?auto=compress%2Cformat&w=740&h=555&fit=max" width="30">
   </a>
   
 </p>
