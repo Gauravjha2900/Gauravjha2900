@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gaurav Jha</h1>
 <h3 align="center">I'm Gaurav Jha, a 21-year old technical enthusiast who does work and research in the field of Embedded system, Machine Learning and Network and communication system.Passionate to contribute open-source projects and make cool products.</h3>
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
 <p align="center">
-<a href="https://twitter.com/Gaurav_jha29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Gaurav_jha29" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gaurav-jha-938678158" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-jha-938678158" height="30" width="30" /></a>
+  
+  <a href="https://www.linkedin.com/in/gaurav-jha-938678158/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gaurav Jha's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://twitter.com/Gaurav_jha29/">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Gaurav Jha's Twitter Profile" height="30" width="30">
+  </a>
 </p>
+
 
 
 <!--
