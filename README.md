@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Gaurav Jha's Twitter Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.hackster.io/shreyas1308/">
+  <a href="https://www.hackster.io/GJ29/">
     <img src=""https://hackster.imgix.net/uploads/attachments/1004883/hackster_logo_squared.png?auto=compress%2Cformat&w=740&h=555&fit=max" width="30">
   </a>
   
